@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vytGY+e0RF+UdkwMtoUydGkafeBB9pwfi7V/s8F0U1Gv+XO8BVcMZolVLyZC+kdFlv0QHPXNGPi2cHZsQZozg==",
+  "success": true,
+  "projectFilePath": "C:\\MaXiMAA\\Projects\\C#\\LinuxLabsChanger\\LinuxLabsChanger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\sixlabors.imagesharp\\3.1.2\\sixlabors.imagesharp.3.1.2.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
