@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinuxLabsChanger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b58f02e2c16475f556f7f53ded608dbd88741dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinuxLabsChanger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinuxLabsChanger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
